@@ -1,0 +1,6 @@
+Datasets/
+.vector_cache
+temp.txt
+.ipynb_checkpoints
+_pycache_
+data/
